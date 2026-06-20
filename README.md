@@ -12,8 +12,3 @@ Tecnologias:
 - Java Swing
 - MySQL
 - JDBC
-
-Como executar:
-1. Execute o arquivo database.sql
-2. Configure usuário e senha do MySQL em ConnectionFactory
-3. Execute MenuPrincipalWindow
